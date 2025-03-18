@@ -1,5 +1,6 @@
 package com.jwtPractice.JWTPractice.Service;
 
+import com.jwtPractice.JWTPractice.JWT.JWTService;
 import com.jwtPractice.JWTPractice.Repository.UserRepo;
 import com.jwtPractice.JWTPractice.entity.Users;
 import org.springframework.beans.factory.annotation.Autowired;

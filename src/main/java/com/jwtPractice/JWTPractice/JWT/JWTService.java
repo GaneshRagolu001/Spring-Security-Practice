@@ -1,4 +1,4 @@
-package com.jwtPractice.JWTPractice.Service;
+package com.jwtPractice.JWTPractice.JWT;
 
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;

@@ -1,5 +1,6 @@
 package com.jwtPractice.JWTPractice.Security;
 
+import com.jwtPractice.JWTPractice.JWT.JWTfilter;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

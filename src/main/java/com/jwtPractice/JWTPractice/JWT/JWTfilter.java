@@ -1,6 +1,5 @@
-package com.jwtPractice.JWTPractice.Security;
+package com.jwtPractice.JWTPractice.JWT;
 
-import com.jwtPractice.JWTPractice.Service.JWTService;
 import com.jwtPractice.JWTPractice.Service.MyUserDetailsService;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
